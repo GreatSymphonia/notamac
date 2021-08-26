@@ -12,16 +12,25 @@ Configuration for my custom Mac theme
 # Extensions
 
 [Mock Global Menu](https://github.com/tofutech/mockglobalmenu)
+
 [Big Sur Menu](https://github.com/tofutech/bigsurmenu)
+
 [Big Sur Status Menu](https://extensions.gnome.org/extension/4085/big-sur-status-area/)
+
 [Dash to Dock](https://github.com/micheleg/dash-to-dock/tree/ewlsh-ewlsh/gnome-40)
+
 [Unite](https://extensions.gnome.org/extension/1287/unite/)
+
 [Blur Me](https://extensions.gnome.org/extension/4236/blur-me/)
+
 [Desktop Icons Neo](https://extensions.gnome.org/extension/4337/desktop-icons-neo/)
+
 [Shell Configurator](https://extensions.gnome.org/extension/4254/shell-configurator/)
 
 ## Optional Extensions
+
 [Jiggle](https://extensions.gnome.org/extension/3438/jiggle/)
+
 [Night Theme Switcher](https://extensions.gnome.org/extension/2236/night-theme-switcher/)
 
 
